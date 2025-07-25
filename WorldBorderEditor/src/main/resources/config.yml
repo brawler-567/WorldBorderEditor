@@ -1,0 +1,4 @@
+day-border-increase: 100000
+night-border-increase: 10000
+day-start-hour: 8
+change-speed-seconds: 6000000
